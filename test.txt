@@ -1,3 +1,2 @@
 test_var = 11
 test_var2 = 3
-test_var3 = 4
